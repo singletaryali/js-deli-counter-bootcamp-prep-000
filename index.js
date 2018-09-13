@@ -5,6 +5,7 @@ function takeANumber (katzDeli, name) {
 
 function nowServing (katzDeliLine) {
   if (katzDeliLine > 0) {
+  console.log 
   return katzDeliLine.shift('${name}');
   }
   else{
