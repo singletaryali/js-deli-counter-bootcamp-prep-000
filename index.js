@@ -4,5 +4,7 @@ function takeANumber (katzDeli, name) {
 }
 
 function nowServing (katzDeliLine) {
-  
+  if (){
+    
+  }
 }
