@@ -4,7 +4,10 @@ function takeANumber (katzDeli, name) {
 }
 
 function nowServing (katzDeliLine) {
-  if (katzDeliLine.pop('${name}')){
+  if (katzDeliLine.pop('${name}')) {
+    return 
+  }
+  else{
     
   }
 }
