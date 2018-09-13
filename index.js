@@ -4,7 +4,7 @@ function takeANumber (katzDeli, name) {
 }
 
 function nowServing (katzDeliLine) {
-  if () {
+  if (katzDeliLine > 0) {
     return katzDeliLine.shift
   }
   else{
