@@ -1,1 +1,4 @@
-function takeANumber ()
+function takeANumber (katzDeli, name) {
+ 
+ 
+}
