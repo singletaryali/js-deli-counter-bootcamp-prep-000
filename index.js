@@ -8,6 +8,6 @@ function nowServing (katzDeliLine) {
     return 
   }
   else{
-    
+    console.log("There is nobody waiting to be served!")
   }
 }
