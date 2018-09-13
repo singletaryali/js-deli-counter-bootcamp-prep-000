@@ -4,8 +4,8 @@ function takeANumber (katzDeli, name) {
 }
 
 function nowServing (katzDeliLine) {
-  if (katzDeliLine.pop('${name}')) {
-    return 
+  if () {
+    return katzDeliLine.shift
   }
   else{
     console.log("There is nobody waiting to be served!")
