@@ -1,5 +1,5 @@
 function takeANumber (katzDeli, name) {
- console.log('Welcome, ${name}. You are number ${katzDeli.length} in line.')
+ console.log ('Welcome ${name}.')
  return katzDeli.push(`${name}`);
 }
 
