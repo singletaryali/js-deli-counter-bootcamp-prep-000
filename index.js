@@ -3,3 +3,8 @@ function takeANumber (katzDeli, name) {
  return katzDeli.push(`${name}`);
 }
 
+function nowServing (katzDeliLine) {
+  if (katzDeliLine.pop('${name}')){
+    
+  }
+}
